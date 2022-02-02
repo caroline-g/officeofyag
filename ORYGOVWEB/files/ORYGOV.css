@@ -1,0 +1,36 @@
+@font-face {
+    font-family:UnitedUltra ;
+    src: url(../fonts/Decimal-Ultra.otf);
+}
+@font-face {
+    font-family: UnitedSemi;
+    src: url(../fonts/Decimal-Semibold.otf);
+}
+h1 {
+    font-family: UnitedUltra;
+}
+body {
+    font-family: UnitedSemi;
+    background-color: rgb(11, 37, 88);
+    color: white;
+    text-align: center;
+}
+header{
+    text-align: center;
+    margin: 5%;
+}
+.social {
+    background-color: rgb(11, 37, 88);
+    background:rgb(11, 37, 88) !important;
+    padding: 0px !important;
+}
+a {
+    color: rgb(11, 37, 88);
+    border-color: #ecc781;
+    background: #ecc781;
+    border-radius: 100px;
+    padding: 18px 25px 18.7px ;
+    text-align: center;
+    text-decoration: none;
+    line-height: 90px;
+}
