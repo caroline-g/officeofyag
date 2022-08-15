@@ -39,3 +39,14 @@ a {
     padding: 20px;
     margin: 5%;
 }
+#a {
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+font-size: 20px;
+}
+table {
+    width: 100%;
+    border: white, 100px;
+  }
+  
